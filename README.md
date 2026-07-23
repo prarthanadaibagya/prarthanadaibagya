@@ -20,7 +20,6 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,9 +46,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prarthanadaibagya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthanadaibagya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -59,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=prarthanadaibagya&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -69,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prarthanadaibagya&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -79,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prarthanadaibagya&theme=tokyo-night"/>
 
 </p>
 
@@ -89,7 +88,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/prarthana-daibagya-278766316">
+<a href="https://www.linkedin.com/in/prarthana-daibagya-278766316/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
